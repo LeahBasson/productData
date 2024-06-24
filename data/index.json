@@ -1,0 +1,39 @@
+{
+    "result":[
+        {
+            "productName": "Gemstone",
+            "category": "Ring",
+            "Material": "Gold",
+            "Amount": 1000,
+            "img_url": "https://leahbasson.github.io/MyImages/jsProject/circle1.jpg"
+        },
+        {
+            "productName": "Chunky Silver",
+            "category": "Bracelet",
+            "Material": "Silver",
+            "Amount": 300,
+            "img_url": "https://leahbasson.github.io/MyImages/jsProject/circle2.png"
+        },
+        {
+            "productName": "Chain Necklace",
+            "category": "Necklace",
+            "Material": "Gold",
+            "Amount": 600,
+            "img_url": "https://leahbasson.github.io/MyImages/jsProject/circle3.jpg"
+        },
+        {
+            "productName": "Pear Shaped Pearls",
+            "category": "Earrings",
+            "Material": "Pearls, Gold",
+            "Amount": 300,
+            "img_url": "https://leahbasson.github.io/MyImages/jsProject/circle4.jpg"
+        },
+        {
+            "productName": "Heart Shaped Earrings",
+            "category": "Earrings",
+            "Material": "Gold, Diamond",
+            "Amount": 500,
+            "img_url": "https://leahbasson.github.io/MyImages/jsProject/homeLimited.jpg"
+        }
+    ]
+}
